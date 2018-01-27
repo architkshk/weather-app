@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import WeatherOverview from './WeatherOverview';
+import '../assets/weather-icons-master/css/weather-icons.min.css';
 
 class App extends Component {
   
